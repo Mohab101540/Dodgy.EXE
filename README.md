@@ -64,3 +64,4 @@ See [TASK_BOARD.md](TASK_BOARD.md) and [TEST_PLAN.md](TEST_PLAN.md).
 
 - "Low Poly Lava Fighting Arena/Stage" by Umar (@123umar123), [Sketchfab](https://sketchfab.com/3d-models/low-poly-lava-fighting-arenastage-6c9918fa61014829ab10048aa6c3171b), CC BY 4.0. Modified with colliders, background, walls and lighting.
 - Built with Unity 6000.3.20f1 and Blender.
+- The player, enemy and boss models were generated with AI tools (ChatGPT, Gemini, Claude).
